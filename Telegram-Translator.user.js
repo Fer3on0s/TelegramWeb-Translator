@@ -14,8 +14,8 @@
 // @grant        GM_getValue
 // @connect      translate.googleapis.com
 // @connect      clients5.google.com
-// @downloadURL  https://github.com/akram0reda-max/TelegramWeb-Translator/raw/refs/heads/main/Telegram-Translator.user.js
-// @updateURL    https://github.com/akram0reda-max/TelegramWeb-Translator/raw/refs/heads/main/Telegram-Translator.user.js
+// @downloadURL  https://github.com/Fer3on0s/TelegramWeb-Translator/raw/refs/heads/main/Telegram-Translator.user.js
+// @updateURL    https://github.com/Fer3on0s/TelegramWeb-Translator/raw/refs/heads/main/Telegram-Translator.user.js
 // ==/UserScript==
 
 /* ========================================================================
