@@ -7,7 +7,6 @@
 // @match        https://web.telegram.org/k/*
 // @match        https://web.telegram.org/a/*
 // @license      MIT
-// @icon         https://i.postimg.cc/YqVyVx0g/translate.png
 // @grant        GM_addStyle
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
@@ -15,7 +14,7 @@
 // @connect      translate.googleapis.com
 // @connect      clients5.google.com
 // @downloadURL  https://github.com/Fer3on0s/TelegramWeb-Translator/raw/refs/heads/main/Telegram-Translator.user.js
-// @updateURL    https://github.com/Fer3on0s/TelegramWeb-Translator/raw/refs/heads/main/Telegram-Translator.user.js
+// @updateURL    https://github.com/Fer3on0s/TelegramWeb-Translator/raw/refs/heads/main/Telegram-Translator.meta.js
 // ==/UserScript==
 
 /* ========================================================================
