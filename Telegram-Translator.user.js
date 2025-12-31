@@ -7,7 +7,7 @@
 // @match        https://web.telegram.org/k/*
 // @match        https://web.telegram.org/a/*
 // @license      MIT
-// @icon         https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png
+// @icon         https://i.postimg.cc/YqVyVx0g/translate.png
 // @grant        GM_addStyle
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
